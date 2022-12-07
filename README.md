@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&fontSize=90&text=Wellcome)
-
-### Hi there 👋
+### Thank you for coming !!
 <img src="https://img.shields.io/badge/Android-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Java-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-FF0000?style=flat&logo=React&logoColor=white"/>
 
 
+<!--
+### Hi there👋 -->
 <!--
 **Jinyunki/Jinyunki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
