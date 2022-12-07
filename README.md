@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Android-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 <!--
 **Jinyunki/Jinyunki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
