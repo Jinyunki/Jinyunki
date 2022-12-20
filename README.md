@@ -2,7 +2,7 @@
 ### Thank you for coming !! :smile:
 
 ## Skill :pencil2:
-<div align=end>
+<div align=center>
 <img src="https://img.shields.io/badge/Android-61DAFB?style=flat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-61DAFB?style=flat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Android Studio-FF0000?style=flat&logoColor=white"/>
@@ -10,8 +10,6 @@
 <img src="https://img.shields.io/badge/MVC-61DAFB?style=flat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MaterialDesign-61DAFB?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Retrofit2-fefefe?style=flat&logoColor=black"/>
-
-<a href="https://silk-mare-ff4.notion.site/Jin-3ade7e4509034090bc7152cd62301648"> :point_right: Notion </a>
  </div>
 
 <div align=center>
