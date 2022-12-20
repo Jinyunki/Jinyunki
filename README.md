@@ -13,7 +13,7 @@
 <a href="https://silk-mare-ff4.notion.site/Jin-3ade7e4509034090bc7152cd62301648"> :point_right: Notion </a>
 <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinyunki)](https://github.com/Jinyunki) 
 	
   </div>
 
