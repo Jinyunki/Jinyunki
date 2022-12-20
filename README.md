@@ -11,6 +11,12 @@
 <img src="https://img.shields.io/badge/Retrofit2-fefefe?style=flat&logoColor=black"/>
 
 <a href="https://silk-mare-ff4.notion.site/Jin-3ade7e4509034090bc7152cd62301648"> :point_right: Notion </a>
+
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+
+<--방문자수-->
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinyunki)](https://github.com/Jinyunki) 
