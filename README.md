@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=550&section=header&fontSize=90&text=Well come)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&fontSize=90&text=Well come)
 ### Thank you for coming !! :smile:
 
 <div align=center>
