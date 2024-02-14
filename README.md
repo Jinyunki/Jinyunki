@@ -5,7 +5,8 @@
 ### Thank you for coming !! :smile:
 
 
-<img src="https://img.shields.io/badge/ C#-61DAFB?style=flat&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C#-61DAFB?style=flat&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C#-61DAFB?style=flat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/WPF-61DAFB?style=flat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio-FF0000?style=flat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows Applications-61DAFB?style=flat&logoColor=white"/> 
