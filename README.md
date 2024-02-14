@@ -5,13 +5,14 @@
 ### Thank you for coming !! :smile:
 
 
-<img src="https://img.shields.io/badge/Android-61DAFB?style=flat&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-61DAFB?style=flat&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Android Studio-FF0000?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Room-61DAFB?style=flat&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MVC-61DAFB?style=flat&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MaterialDesign-61DAFB?style=flat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Retrofit2-fefefe?style=flat&logoColor=black"/>
+<img src="https://img.shields.io/badge/C#-61DAFB?style=flat&logoColor=white"/> 
+<img src="https://img.shields.io/badge/WPF-61DAFB?style=flat&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Visual Studio-FF0000?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows Applications-61DAFB?style=flat&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MVVM-61DAFB?style=flat&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CustomDesign-61DAFB?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-fefefe?style=flat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-fefefe?style=flat&logoColor=black"/>
  </div>
 
 <div align=center>
